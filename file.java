@@ -1,0 +1,5 @@
+public class file{
+    public static boolean isEven(int num){
+        return num % 2 == 1;
+    }
+}
